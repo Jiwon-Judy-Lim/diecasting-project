@@ -65,3 +65,6 @@ print(confusion_matrix(test_y, test_pred))
 
 print("\nClassification Report (Test):")
 print(classification_report(test_y, test_pred))
+
+
+#테스트모델 생성 github동기화
