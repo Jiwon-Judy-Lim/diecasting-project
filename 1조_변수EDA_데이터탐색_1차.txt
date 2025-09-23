@@ -1,0 +1,35 @@
+1. **id :  o**
+2. **line : drop**
+3. **name : drop**
+4. **mold_name : drop**
+5. **time : o**
+6. **date : drop**
+7. **count : o**
+8. **working : o**
+9. **emergency_stop : drop**
+10. **molten_temp : o**
+11. **facility_operation_cycleTime : o**
+12. **production_cycletime : o**
+13. **low_section_speed : 확인필요(일단살림, 분포확인)**
+14. **high_section_speed : 확인필요(일단 살림, 분포확인)**
+15. **molten_volume : o**
+16. **cast_pressure : o**
+17. **biscuit_thickness : o**
+18. **upper_mold_temp1 : o**
+19. **upper_mold_temp2 : o**
+20. **upper_mold_temp3 : o**
+21. **lower_mold_temp1 : o**
+22. **lower_mold_temp2 : o**
+23. **lower_mold_temp3 : o**
+24. **sleeve_temperature  : o**
+25. **physical_strength  : o**
+26. **Coolant_temperature : o**
+27. **EMS_operation_time : o**
+28. **registration_time : drop**
+29. **passorfail (종속변수)** 
+30. **tryshot_signal : o**
+31. **mold_code : o**
+32. **heating_furnace : o**
+33. **day : o**
+34. **month : o**
+35. **weekday : o**
