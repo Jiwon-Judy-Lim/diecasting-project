@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 
-import joblib
 
 
 
@@ -72,6 +71,8 @@ joblib.dump(clf, './before_valid_decisiontree.pkl')  # 저장
 # joblib.dump(저장하고 싶은 모델 변수명, '저장하고싶은 경로랑 파일명.pkl')
 # print("✅ 모델 저장 완료!")
 
+
+import joblib
 loaded_model = joblib.load('./before_valid_decisiontree.pkl')  # 저장한 모델 로드
 
 # 불러온 모델로 예측
