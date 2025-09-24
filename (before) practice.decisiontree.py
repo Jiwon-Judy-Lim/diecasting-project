@@ -14,7 +14,7 @@ train.dtypes
 drop_cols = [
     'line','name','mold_name','time','date',
     'working','emergency_stop','registration_time',
-    'tryshot_signal','heating furnance'
+    'tryshot_signal','heating_furnance'
 ]
 
 # (2) 입력데이터와 정답데이터 분류
